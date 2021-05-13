@@ -1,12 +1,12 @@
 packer {
   required_plugins {
-    qemu = {
+    libvirt = {
       version = ">= 0.0.1"
-      source  = "github.com/hashicorp/qemu"
+      source  = "github.com/hashicorp/libvirt"
     }
   }
 }
 
 build {
-  sources = ["source.qemu.example"]
+  sources = ["source.libvirt.example"]
 }

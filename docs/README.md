@@ -1,8 +1,8 @@
-# QEMU Plugin
+# Libvirt Plugin
 
-The Qemu Packer Plugin comes with a single builder able to create KVM virtual machine images.
+The Libvirt Packer Plugin comes with a single builder able to create KVM virtual machine images.
 
-- [qemu](/docs/builders/qemu.mdx)
+- [libvirt](/docs/builders/libvirt.mdx)
 
 ## Installation
 
@@ -20,9 +20,9 @@ Then, run [`packer init`](https://www.packer.io/docs/commands/init).
 ```hcl
 packer {
   required_plugins {
-    qemu = {
+    libvirt = {
       version = ">= 0.0.1"
-      source  = "github.com/hashicorp/qemu"
+      source  = "github.com/hashicorp/libvirt"
     }
   }
 }

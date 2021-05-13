@@ -1,4 +1,4 @@
-source "qemu" "example" {
+source "libvirt" "example" {
   boot_command      = [
     "<enter><wait><f6><wait><esc><wait>",
     "<bs><bs><bs><bs><bs><bs><bs><bs><bs><bs>",

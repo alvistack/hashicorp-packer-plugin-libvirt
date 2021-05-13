@@ -82,8 +82,6 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/digitalocean/go-libvirt v0.0.0-20201209184759-e2a69bcd5bd1 h1:j6vGflaQ2T7yOWqVgPdiRF73j/U2Zmpbbzab8nyDCRQ=
 github.com/digitalocean/go-libvirt v0.0.0-20201209184759-e2a69bcd5bd1/go.mod h1:QS1XzqZLcDniNYrN7EZefq3wIyb/M2WmJbql4ZKoc1Q=
-github.com/digitalocean/go-qemu v0.0.0-20210326154740-ac9e0b687001 h1:WAg57gnaAWWjMAELcwHjc2xy0PoXQ5G+vn3+XS6s1jI=
-github.com/digitalocean/go-qemu v0.0.0-20210326154740-ac9e0b687001/go.mod h1:IetBE52JfFxK46p2n2Rqm+p5Gx1gpu2hRHsrbnPOWZQ=
 github.com/dylanmei/iso8601 v0.1.0 h1:812NGQDBcqquTfH5Yeo7lwR0nzx/cKdsmf3qMjPURUI=
 github.com/dylanmei/iso8601 v0.1.0/go.mod h1:w9KhXSgIyROl1DefbMYIE7UVSIvELTbMrCfx+QkYnoQ=
 github.com/dylanmei/winrmtest v0.0.0-20170819153634-c2fbb09e6c08 h1:0bp6/GrNOrTDtSXe9YYGCwf8jp5Fb/b+4a6MTRm4qzY=
